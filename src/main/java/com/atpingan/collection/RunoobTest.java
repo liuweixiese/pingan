@@ -15,6 +15,7 @@ public class RunoobTest {
         Sites.put(2, "Runoob");
         Sites.put(3, "Taobao");
         Sites.put(4, "Zhihu");
+        Sites.put(5,"liuwei");
 //        System.out.println(Sites);
         for (Integer i :Sites.keySet()){
             System.out.println("key :" + i + "value" + Sites.get(i));
